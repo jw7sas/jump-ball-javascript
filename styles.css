@@ -1,0 +1,13 @@
+
+canvas {
+    background: #16A085;
+}
+.items{
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    padding: 2rem;
+}
+
